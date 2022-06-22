@@ -1,12 +1,22 @@
-.App {
+/* .App {
   width: 100vw;
   height: auto;
   display: flex;
   align-items: center;
   flex-direction: column;
+} */
+
+.App{
+  margin-top: 85px;
 }
 
 img {
-  width: 300px;
-  margin: 10px;
+  width: 450px;
+  border-radius: 10px;
+  box-shadow: var(--shadowtiny);
+}
+
+.subSection{
+  width: 500px;
+  text-align: center;
 }

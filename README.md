@@ -86,3 +86,7 @@ Built on **React** using `create-react-app`
     );
     }
 
+  
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/76637730/174992626-7dd079c3-c88d-49d5-bd3b-be7452104caf.png)
